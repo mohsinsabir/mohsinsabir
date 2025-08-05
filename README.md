@@ -82,6 +82,28 @@ const mohsinSabir = {
 
 ---
 
+<div align="center">
+
+### 🚨 Error Image Handler
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsinsabir&repo=error-image&theme=radical&hide_border=true)](https://github.com/mohsinsabir/error-image)
+
+> **Turn errors into art!** An intelligent error handling system that generates beautiful, informative error images. Transform frustrating error messages into visually appealing and user-friendly displays.
+
+**🎯 Key Features:**
+- 🎨 Custom error image generation
+- 🔧 Multiple error types support
+- 📱 Responsive error displays
+- 🌈 Customizable themes and styles
+- 📊 Error analytics and tracking
+
+<div align="center">
+  <img src="https://via.placeholder.com/600x200/FF6B6B/FFFFFF?text=🚨+Beautiful+Error+Handling" alt="Error Image Demo" style="border-radius: 10px; margin: 10px 0;"/>
+</div>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
