@@ -31,7 +31,7 @@ const mohsinSabir = {
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🖼️ Text to Image Generator
 > **Transform your words into stunning visuals!** This powerful tool converts text descriptions into beautiful images using advanced AI models. Perfect for content creators, designers, and anyone who wants to bring their imagination to life.
@@ -46,10 +46,9 @@ const mohsinSabir = {
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 📝 Text Summarization Engine
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsinsabir&repo=text-summarization&theme=radical&hide_border=true)](https://github.com/mohsinsabir/text-summarization)
 
 > **Distill lengthy content into concise insights!** An intelligent summarization tool that extracts key information from large texts, making content consumption faster and more efficient.
 
@@ -63,10 +62,9 @@ const mohsinSabir = {
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 🏛️ English to Roman Converter
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsinsabir&repo=english-to-roman&theme=radical&hide_border=true)](https://github.com/mohsinsabir/english-to-roman)
 
 > **Bridge ancient and modern worlds!** Convert English numerals to Roman numerals with precision and style. Perfect for historical documents, educational content, and classical design projects.
 
