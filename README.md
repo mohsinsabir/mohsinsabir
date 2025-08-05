@@ -34,8 +34,6 @@ const mohsinSabir = {
 <div align="center">
 
 ### 🖼️ Text to Image Generator
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsinsabir&repo=text-to-image&theme=radical&hide_border=true)](https://github.com/mohsinsabir/text-to-image)
-
 > **Transform your words into stunning visuals!** This powerful tool converts text descriptions into beautiful images using advanced AI models. Perfect for content creators, designers, and anyone who wants to bring their imagination to life.
 
 **✨ Key Features:**
