@@ -116,11 +116,19 @@ const mohsinSabir = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinsabir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohsinsabir&layout=compact&theme=radical&hide_border=true"
+    alt="Mohsin Sabir's Top Languages"
+  />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinsabir&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=mohsinsabir&theme=radical&hide_border=true"
+    alt="Mohsin Sabir's GitHub Streak"
+  />
 </div>
 
 ---
