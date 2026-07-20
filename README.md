@@ -27,7 +27,10 @@ const mohsinSabir = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinsabir&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=mohsinsabir&theme=radical&show_icons=true&hide_border=true"
+    alt="Mohsin Sabir's GitHub Stats"
+  />
 </div>
 
 ---
