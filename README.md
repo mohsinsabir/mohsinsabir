@@ -1,7 +1,10 @@
 # 🚀 Hey there! I'm Mohsin Sabir
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Text+Processing+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Model+Training+%26+Fine-Tuning;Generative+AI+Enthusiast;Full+Stack+Developer"
+  alt="Typing SVG"
+/>
 </div>
 
 <div align="center">
