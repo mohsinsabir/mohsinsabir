@@ -125,10 +125,12 @@ const mohsinSabir = {
 <br />
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mohsinsabir&theme=radical&hide_border=true"
-    alt="Mohsin Sabir's GitHub Streak"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=mohsinsabir&theme=radical&hide_border=true&disable_animations=true&v=2"
+      alt="Mohsin Sabir's GitHub Streak"
+    />
+  </a>
 </div>
 
 ---
