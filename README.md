@@ -20,14 +20,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/mohsinsabir/TextToImage"><img src="./assets/image-project.svg" width="410" height="330" alt="Text to Image — image generation with Stable Diffusion. Python, Hugging Face, Streamlit. Explore repository." /></a>
-  <a href="https://github.com/mohsinsabir/EmployeeManagementSystem"><img src="./assets/employee-project.svg" width="410" height="330" alt="Employee Management — a Java web application with HTML, CSS and Bootstrap. Explore repository." /></a>
+  <a href="https://github.com/mohsinsabir/voice-agent"><img src="./assets/voice-project.svg" width="410" height="330" alt="AI Voice Agent — appointment booking and lead qualification. TypeScript, React, Node.js. Explore repository." /></a>
 </p>
 <p align="center">
   <a href="https://github.com/mohsinsabir/google-maps-educational-icon-detector"><img src="./assets/maps-project.svg" width="410" height="330" alt="Educational Icon Detector — find school pins in Google Maps screenshots using Python, OpenCV and NumPy. Explore repository." /></a>
   <a href="https://github.com/mohsinsabir/lawtalk-assistant"><img src="./assets/lawtalk-project.svg" width="410" height="330" alt="LawTalk Assistant — a React and TypeScript chat interface for Pakistan Penal Code references. Explore repository." /></a>
 </p>
 
-<p align="center"><sub>Also building: <a href="https://github.com/mohsinsabir/voice-agent">AI Voice Agent — appointment booking and lead qualification</a></sub></p>
 
 ### My toolkit
 
