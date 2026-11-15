@@ -8,11 +8,9 @@
   <a href="mailto:sabirmohsin65@gmail.com"><img src="./assets/email-button.svg" width="190" height="64" alt="Get in touch by email" /></a>
 </p>
 
-### Hey, I'm Mohsin 👋
-
-I build applications with **AI, natural language processing, and full stack development**—from voice agents and image generation to tools that make language more accessible.
-
-I like taking an idea all the way to a usable interface: working with models, connecting APIs, and building the experience around them.
+<p align="center">
+  <img src="./assets/intro.svg" width="830" alt="Hey, I'm Mohsin. I build AI, natural language processing, and full stack applications—from voice agents and image generation to accessible language tools. I turn ideas into usable interfaces by working with models, connecting APIs, and building the experience around them." />
+</p>
 
 ### Selected work
 
