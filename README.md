@@ -16,48 +16,14 @@ I like taking an idea all the way to a usable interface: working with models, co
 
 ### Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎙️ [AI Voice Agent](https://github.com/mohsinsabir/voice-agent)
-
-A dental appointment booking and lead qualification project with a Retell-powered voice agent, API backend, and web call interface.
-
-<sub>TypeScript · Node.js · React · Retell AI</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 [Text to Image](https://github.com/mohsinsabir/TextToImage)
-
-Turn a text prompt into an image with Stable Diffusion and a simple Streamlit interface.
-
-<sub>Python · Hugging Face · Diffusers · Streamlit</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 [English → Roman Urdu](https://github.com/mohsinsabir/English-into-Roman-urdu)
-
-Translate English into Urdu, then convert the result into readable Roman Urdu in the browser.
-
-<sub>Python · MarianMT · Transformers · Streamlit</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 📝 [Text Summarization](https://github.com/mohsinsabir/textsummerization)
-
-An NLP project for turning longer text into shorter summaries.
-
-<sub>Python · Natural language processing</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/mohsinsabir/voice-agent"><img src="./assets/voice-project.svg" width="410" height="330" alt="AI Voice Agent — dental appointment booking and lead qualification. TypeScript, React, Node.js. Explore repository." /></a>
+  <a href="https://github.com/mohsinsabir/TextToImage"><img src="./assets/image-project.svg" width="410" height="330" alt="Text to Image — image generation with Stable Diffusion. Python, Hugging Face, Streamlit. Explore repository." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/mohsinsabir/English-into-Roman-urdu"><img src="./assets/urdu-project.svg" width="410" height="330" alt="English to Roman Urdu — browser-based translation and transliteration. Python, Hugging Face, Streamlit. Explore repository." /></a>
+  <a href="https://github.com/mohsinsabir/textsummerization"><img src="./assets/summary-project.svg" width="410" height="330" alt="Text Summarization — concise summaries using Transformers and BART. Python, Hugging Face, Streamlit. Explore repository." /></a>
+</p>
 
 ### My toolkit
 
