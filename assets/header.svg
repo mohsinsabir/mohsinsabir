@@ -1,26 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Mohsin Sabir — AI and full stack developer</title>
-  <desc id="desc">A dark navy banner with mint and violet accents, geometric connections, and the phrase From ideas to intelligent applications.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#191435"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#6EE7CB"/><stop offset="1" stop-color="#A89AFF"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8883BA" stroke-opacity=".09"/></pattern>
-  </defs>
-  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
-  <path d="M0 350H1200" stroke="url(#accent)" stroke-width="4"/>
-  <g fill="none" stroke="#A89AFF" stroke-opacity=".3">
-    <circle cx="1015" cy="180" r="130"/><circle cx="1015" cy="180" r="96"/>
-    <path d="M885 180h260M1015 50v260M923 88l184 184M923 272l184-184"/>
-    <path d="M885 180l130-130 130 130-130 130z"/>
-  </g>
-  <g fill="#6EE7CB"><circle cx="1015" cy="50" r="5"/><circle cx="885" cy="180" r="5"/><circle cx="1107" cy="272" r="5"/></g>
-  <rect x="940" y="143" width="150" height="74" rx="14" fill="#151C2E" stroke="#6EE7CB" stroke-opacity=".6"/>
-  <text x="1015" y="192" fill="#6EE7CB" font-family="Consolas,monospace" font-size="36" text-anchor="middle">&lt;/&gt;</text>
-  <text x="62" y="74" fill="#6EE7CB" font-family="Consolas,monospace" font-size="15" letter-spacing="3">AI · LANGUAGE · WEB</text>
-  <text x="58" y="154" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="66">Mohsin Sabir<tspan fill="#6EE7CB">.</tspan></text>
-  <text x="62" y="207" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="26">From ideas to intelligent applications.</text>
-  <rect x="62" y="251" width="317" height="39" rx="19.5" fill="#6EE7CB" fill-opacity=".09" stroke="#6EE7CB" stroke-opacity=".3"/>
-  <text x="220" y="276" fill="#99F0DC" font-family="Segoe UI,Arial,sans-serif" font-size="15" text-anchor="middle">AI &amp; full stack developer</text>
-  <text x="401" y="276" fill="#A89AFF" font-family="Consolas,monospace" font-size="14">@mohsinsabir</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Mohsin Sabir — AI and full stack developer</title>
+<desc id="desc">From ideas to intelligent applications. A navy banner with mint, blue, and violet icons, connected nodes, and a code window highlighting AI, language, and web development.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101D2B"/><stop offset=".5" stop-color="#172236"/><stop offset="1" stop-color="#28203F"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#6EE7CB"/><stop offset=".5" stop-color="#8FC8FF"/><stop offset="1" stop-color="#B9A6FF"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#B9A6FF" fill-opacity=".1"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="418" rx="24" fill="url(#bg)" stroke="#8F9CC6" stroke-opacity=".3" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="418" rx="24" fill="url(#dots)"/>
+<path d="M35 418h1130" stroke="url(#accent)" stroke-width="3"/>
+<g fill="none" stroke="#A89AFF" stroke-opacity=".08"><circle cx="1016" cy="192" r="172"/><circle cx="1016" cy="192" r="205"/><path d="m677 0 523 420M857 0l343 277"/></g>
+<rect x="57" y="45" width="226" height="30" rx="15" fill="#6EE7CB" fill-opacity=".07" stroke="#6EE7CB" stroke-opacity=".25"/>
+<circle cx="74" cy="60" r="3.5" fill="#6EE7CB"/>
+<text x="87" y="65" fill="#9CEBD7" font-family="Consolas,monospace" font-size="11" letter-spacing="1.8">AI · LANGUAGE · WEB</text>
+<text x="55" y="151" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700">Mohsin Sabir<tspan fill="#6EE7CB">.</tspan></text>
+<text x="59" y="196" fill="#D3DFED" font-family="Segoe UI,Arial,sans-serif" font-size="25">From ideas to intelligent applications.</text>
+<text x="60" y="235" fill="#A7BAD1" font-family="Segoe UI,Arial,sans-serif" font-size="18">AI &amp; full stack developer</text>
+<path d="M60 267h565" stroke="url(#accent)" stroke-opacity=".22"/>
+<rect x="59" y="293" width="170" height="46" rx="12" fill="#6EE7CB" fill-opacity=".07" stroke="#6EE7CB" stroke-opacity=".22"/>
+<g fill="none" stroke="#6EE7CB" stroke-width="1.7" stroke-linecap="round"><rect x="75" y="307" width="19" height="19" rx="4"/><path d="M80 303v4m9-4v4m-9 19v4m9-4v4m-18-18h4m-4 9h4m19-9h4m-4 9h4M81 313h7v7h-7z"/></g>
+<text x="111" y="322" fill="#A5EFDE" font-family="Segoe UI,Arial,sans-serif" font-size="14">AI &amp; models</text>
+<rect x="242" y="293" width="170" height="46" rx="12" fill="#8FC8FF" fill-opacity=".07" stroke="#8FC8FF" stroke-opacity=".22"/>
+<g fill="none" stroke="#8FC8FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M260 307h19a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4h-10l-6 5v-5h-3a4 4 0 0 1-4-4v-10a4 4 0 0 1 4-4zM263 313h13m-13 6h8"/></g>
+<text x="298" y="322" fill="#AFD7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14">Language</text>
+<rect x="425" y="293" width="200" height="46" rx="12" fill="#B9A6FF" fill-opacity=".07" stroke="#B9A6FF" stroke-opacity=".22"/>
+<g fill="none" stroke="#B9A6FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m450 305 14 7-14 7-14-7zM436 318l14 7 14-7M436 324l14 7 14-7"/></g>
+<text x="481" y="322" fill="#C8B9FF" font-family="Segoe UI,Arial,sans-serif" font-size="14">Full stack</text>
+<text x="60" y="380" fill="#849AB5" font-family="Consolas,monospace" font-size="12" letter-spacing="1">@mohsinsabir</text>
+<g fill="none" stroke="url(#accent)" stroke-opacity=".4" stroke-width="1.5" stroke-dasharray="3 6"><path d="M732 87v-24h82M1115 86v-23h-50M1128 318v39h-78M716 210h-38v100h38"/></g>
+<g fill="#8FC8FF"><circle cx="814" cy="63" r="3"/><circle cx="1065" cy="63" r="3"/><circle cx="1050" cy="357" r="3"/></g>
+<rect x="724" y="100" width="422" height="226" rx="17" fill="#090F1D" fill-opacity=".3"/>
+<rect x="716" y="92" width="422" height="226" rx="17" fill="#121B2C" stroke="#A7A1CF" stroke-opacity=".4"/>
+<path d="M717 133h420" stroke="#8C9EBB" stroke-opacity=".18"/>
+<circle cx="738" cy="113" r="4" fill="#FF858B"/><circle cx="753" cy="113" r="4" fill="#F5D08C"/><circle cx="768" cy="113" r="4" fill="#6EE7CB"/>
+<text x="791" y="117" fill="#A0B2C9" font-family="Consolas,monospace" font-size="11">mohsin.build.ts</text>
+<path d="m1108 107 5 5-5 5m-8-10-5 5 5 5" fill="none" stroke="#B9A6FF" stroke-width="1.5"/>
+<g font-family="Consolas,monospace" font-size="14">
+<g fill="#50627C" font-size="11"><text x="734" y="169">01</text><text x="734" y="200">02</text><text x="734" y="231">03</text><text x="734" y="262">04</text></g>
+<text x="765" y="169" fill="#D7E2EF"><tspan fill="#B9A6FF">const</tspan> mohsin = {</text>
+<text x="781" y="200" fill="#8FC8FF">focus: <tspan fill="#6EE7CB">["AI", "NLP", "Web"]</tspan>,</text>
+<text x="781" y="231" fill="#8FC8FF">approach: <tspan fill="#6EE7CB">"idea → interface"</tspan></text>
+<text x="765" y="262" fill="#D7E2EF">};</text>
+</g>
+<path d="M738 279h378" stroke="#8C9EBB" stroke-opacity=".14"/>
+<text x="741" y="302" fill="#6EE7CB" font-family="Consolas,monospace" font-size="11">&gt; build something useful_</text>
+<text x="776" y="378" fill="#ADA9CE" font-family="Consolas,monospace" font-size="11" letter-spacing="1.4">MODELS → APIs → EXPERIENCES</text>
 </svg>
