@@ -45,6 +45,12 @@ I like taking an idea all the way to a usable interface: working with models, co
 ---
 
 <p align="center">
-  <b>Have an interesting idea? Let's build something useful.</b><br />
-  <a href="mailto:sabirmohsin65@gmail.com">Email me</a> · <a href="https://github.com/mohsinsabir?tab=repositories">Explore my repositories</a>
+  <img src="./assets/collaborate.svg" width="830" alt="Have an interesting idea? Let's build something useful. Start a conversation." />
 </p>
+
+<p align="center">
+  <a href="mailto:sabirmohsin65@gmail.com"><img src="./assets/start-conversation.svg" width="260" height="68" alt="Email me — let's talk about your idea" /></a> &nbsp;
+  <a href="https://github.com/mohsinsabir?tab=repositories"><img src="./assets/explore-repositories.svg" width="260" height="68" alt="Explore my code — browse GitHub repositories" /></a>
+</p>
+
+

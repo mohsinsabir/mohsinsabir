@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="68" viewBox="0 0 260 68" role="img" aria-label="Email Mohsin — start a conversation">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#173835"/><stop offset="1" stop-color="#12252E"/></linearGradient></defs>
+<rect x=".75" y=".75" width="258.5" height="66.5" rx="13" fill="url(#b)" stroke="#6EE7CB" stroke-opacity=".6" stroke-width="1.5"/>
+<rect x="13" y="16" width="36" height="36" rx="10" fill="#6EE7CB" fill-opacity=".12"/>
+<g fill="none" stroke="#6EE7CB" stroke-width="1.7" stroke-linejoin="round"><rect x="21" y="26" width="20" height="16" rx="3"/><path d="m22 28 9 7 9-7"/></g>
+<text x="61" y="27" fill="#8DEED7" font-family="Consolas,monospace" font-size="8" letter-spacing="1.5">LET'S TALK ABOUT YOUR IDEA</text>
+<text x="60" y="47" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Email me</text>
+<path d="M231 32h12m-5-5 5 5-5 5" fill="none" stroke="#6EE7CB" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
