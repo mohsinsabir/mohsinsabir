@@ -61,11 +61,11 @@ An NLP project for turning longer text into shorter summaries.
 
 ### My toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| AI & language | Python, Hugging Face, Transformers, PyTorch, Stable Diffusion |
-| Web & APIs | TypeScript, JavaScript, React, Node.js, Streamlit |
-| Data & development | PostgreSQL, Supabase, Docker, Git, GitHub Actions |
+<p align="center">
+  <img src="./assets/ai-toolkit.svg" width="270" height="340" alt="AI and language: Python, Hugging Face, PyTorch, Transformers, and Stable Diffusion" />
+  <img src="./assets/web-toolkit.svg" width="270" height="340" alt="Web and APIs: TypeScript, JavaScript, React, Node.js, and Streamlit" />
+  <img src="./assets/data-toolkit.svg" width="270" height="340" alt="Data and development: PostgreSQL, Supabase, Docker, Git, and GitHub Actions" />
+</p>
 
 ### What I'm exploring
 
