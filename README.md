@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mohsin-sabir-portfolio.vercel.app/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/mohsin-sabir-1a46a82b7">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:sabirmohsin65@gmail.com">Get in touch</a>
+  <a href="https://mohsin-sabir-portfolio.vercel.app/"><img src="./assets/portfolio.svg" width="18" height="18" alt="" />&nbsp; Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mohsin-sabir-1a46a82b7"><img src="./assets/linkedin.svg" width="18" height="18" alt="" />&nbsp; LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:sabirmohsin65@gmail.com"><img src="./assets/email.svg" width="18" height="18" alt="" />&nbsp; Get in touch</a>
 </p>
 
 ### Hey, I'm Mohsin 👋
