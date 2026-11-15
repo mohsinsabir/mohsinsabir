@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="260" viewBox="0 0 270 260" role="img" aria-label="Exploring Voice agents">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#182333"/><stop offset="1" stop-color="#14172A"/></linearGradient></defs>
+<rect x=".75" y=".75" width="268.5" height="258.5" rx="17" fill="url(#bg)" stroke="#6EE7CB" stroke-opacity=".4" stroke-width="1.5"/>
+<path d="M20 1h50" stroke="#6EE7CB" stroke-width="3" stroke-linecap="round"/>
+<text x="22" y="30" fill="#6EE7CB" font-family="Consolas,monospace" font-size="9" letter-spacing="1.7">EXPLORING / 01</text>
+<rect x="18" y="44" width="63" height="64" rx="16" fill="#6EE7CB" fill-opacity=".08"/>
+<g fill="none" stroke="#6EE7CB" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="32" y="55" width="14" height="23" rx="7"/><path d="M27 71v3a12 12 0 0 0 24 0v-3M39 86v7m-7 0h14M59 65v11m6-16v21m6-13v5"/></g>
+<path d="M94 77h145" stroke="#6EE7CB" stroke-opacity=".3" stroke-dasharray="3 5"/>
+<circle cx="239" cy="77" r="4" fill="#6EE7CB"/><circle cx="239" cy="77" r="9" fill="none" stroke="#6EE7CB" stroke-opacity=".2"/>
+<text x="22" y="139" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Voice agents</text>
+<text x="22" y="166" fill="#AFC0D4" font-family="Segoe UI,Arial,sans-serif" font-size="13">Connecting conversation</text>
+<text x="22" y="185" fill="#AFC0D4" font-family="Segoe UI,Arial,sans-serif" font-size="13">with useful actions.</text>
+<rect x="21" y="213" width="228" height="27" rx="8" fill="#6EE7CB" fill-opacity=".07"/>
+<text x="34" y="231" fill="#6EE7CB" font-family="Consolas,monospace" font-size="9" letter-spacing="1">CONVERSATION → ACTION</text>
+</svg>

@@ -35,9 +35,12 @@ I like taking an idea all the way to a usable interface: working with models, co
 
 ### What I'm exploring
 
-- Voice agents that connect conversation with useful actions.
-- Practical NLP and multilingual language tools.
-- Bringing AI models into full stack applications.
+<p align="center">
+  <img src="./assets/exploring-voice.svg" width="270" height="260" alt="Exploring voice agents: connecting conversation with useful actions." />
+  <img src="./assets/exploring-language.svg" width="270" height="260" alt="Exploring language and NLP: practical NLP and multilingual language tools." />
+  <img src="./assets/exploring-apps.svg" width="270" height="260" alt="Exploring AI applications: bringing AI models into full stack applications." />
+</p>
+
 
 ---
 
