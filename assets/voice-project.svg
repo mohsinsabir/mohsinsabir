@@ -2,7 +2,7 @@
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#182333"/><stop offset="1" stop-color="#14172A"/></linearGradient><linearGradient id="glow"><stop stop-color="#6EE7CB" stop-opacity=".16"/><stop offset="1" stop-color="#6EE7CB" stop-opacity=".03"/></linearGradient></defs>
 <rect x=".75" y=".75" width="408.5" height="328.5" rx="18" fill="url(#bg)" stroke="#6EE7CB" stroke-opacity=".4" stroke-width="1.5"/>
 <path d="M23 1h58" stroke="#6EE7CB" stroke-width="3" stroke-linecap="round"/>
-<text x="23" y="29" fill="#6EE7CB" font-family="Consolas,monospace" font-size="9" letter-spacing="1.5">04 / CONVERSATIONAL AI</text>
+<text x="23" y="29" fill="#6EE7CB" font-family="Consolas,monospace" font-size="9" letter-spacing="1.5">01 / CONVERSATIONAL AI</text>
 <text x="22" y="63" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">AI Voice Agent</text>
 <rect x="22" y="82" width="366" height="102" rx="13" fill="url(#glow)"/>
 

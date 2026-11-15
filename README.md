@@ -15,18 +15,17 @@
 ### Selected work
 
 <p align="center">
-  <a href="https://github.com/mohsinsabir/English-into-Roman-urdu"><img src="./assets/urdu-project.svg" width="410" height="330" alt="English to Roman Urdu — browser-based translation and transliteration. Python, Hugging Face, Streamlit. Explore repository." /></a>
-  <a href="https://github.com/mohsinsabir/textsummerization"><img src="./assets/summary-project.svg" width="410" height="330" alt="Text Summarization — concise summaries using Transformers and BART. Python, Hugging Face, Streamlit. Explore repository." /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/mohsinsabir/TextToImage"><img src="./assets/image-project.svg" width="410" height="330" alt="Text to Image — image generation with Stable Diffusion. Python, Hugging Face, Streamlit. Explore repository." /></a>
   <a href="https://github.com/mohsinsabir/voice-agent"><img src="./assets/voice-project.svg" width="410" height="330" alt="AI Voice Agent — appointment booking and lead qualification. TypeScript, React, Node.js. Explore repository." /></a>
+  <a href="https://github.com/mohsinsabir/google-maps-educational-icon-detector"><img src="./assets/maps-project.svg" width="410" height="330" alt="Educational Icon Detector — find school pins in Google Maps screenshots using Python, OpenCV and NumPy. Explore repository." /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/mohsinsabir/google-maps-educational-icon-detector"><img src="./assets/maps-project.svg" width="410" height="330" alt="Educational Icon Detector — find school pins in Google Maps screenshots using Python, OpenCV and NumPy. Explore repository." /></a>
   <a href="https://github.com/mohsinsabir/lawtalk-assistant"><img src="./assets/lawtalk-project.svg" width="410" height="330" alt="LawTalk Assistant — a React and TypeScript chat interface for Pakistan Penal Code references. Explore repository." /></a>
+  <a href="https://github.com/mohsinsabir/English-into-Roman-urdu"><img src="./assets/urdu-project.svg" width="410" height="330" alt="English to Roman Urdu — browser-based translation and transliteration. Python, Hugging Face, Streamlit. Explore repository." /></a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/mohsinsabir/textsummerization"><img src="./assets/summary-project.svg" width="410" height="330" alt="Text Summarization — concise summaries using Transformers and BART. Python, Hugging Face, Streamlit. Explore repository." /></a>
+  <a href="https://github.com/mohsinsabir/TextToImage"><img src="./assets/image-project.svg" width="410" height="330" alt="Text to Image — image generation with Stable Diffusion. Python, Hugging Face, Streamlit. Explore repository." /></a>
+</p>
 
 ### My toolkit
 
